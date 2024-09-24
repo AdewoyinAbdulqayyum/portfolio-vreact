@@ -109,11 +109,18 @@ img{
 }
 
 /* #################### MEDIA QUERIES (SMALL DEVICES) ############# */
-@media screen and (max-width:1024px){
+@media screen and (max-width:600px){
   .container{
     width: var(--container-width-sm);
   }
   section >h2 {
     margin-bottom: 2rem;
+  }
+  section{
+    margin-top: 6rem;
+    height: 100vh;
+  }
+  #portfolio{
+    margin-top: 50rem;
   }
 }

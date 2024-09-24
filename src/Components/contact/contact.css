@@ -60,4 +60,7 @@ input,textarea{
     .container.contact_container{
         width: var(--container-width-sm);
        }
+       #contact{
+        margin-top: -20rem;
+       }
 }

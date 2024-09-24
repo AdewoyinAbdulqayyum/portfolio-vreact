@@ -46,4 +46,11 @@
     .client_review{
         width: var(--container-width-sm);
     }
+    /* section{
+        margin-top: 16rem;
+    } */
+     #testimonials{
+        margin-top: 130rem;
+        height: 100vh;
+     }
 }
